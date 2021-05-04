@@ -1,0 +1,37 @@
+html{
+    font-size: 16px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color:white;
+    display:block;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    /* border: 1px solid black; */
+}
+.header{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    margin: 10px;
+    font-size: 14px;
+    color :darkslategrey;
+}
+.recipes{
+    margin: 5px;
+    border: 1px solid grey;
+    float: left;
+    width: 180px;
+}
+.recipes img{
+    width: 100%;
+    height: auto;
+}
+.desc {
+    font-family: monospace;
+    font-size: 16px;
+}
